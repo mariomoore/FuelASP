@@ -1,1 +1,2 @@
-
+Praca domowa na kursie ".Net od podstaw"; blok "ASP.Net"
+Dodaj ViewModel w którym będą zawarte 3 property odpowiadające za ilość spalonego paliwa, przejechany dystans i wynik . Dodaj controller o nazwie FuelController a w nim metodę która policzy średnie spalanie na podstawie ilości zużytego paliwa i trasy i zwróci model. Do tego utwórz widok który będzie miał inną nazwę niż metoda i umieść w nim model i  3 kontrolki odpowiadające modelowi.
